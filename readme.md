@@ -47,9 +47,6 @@ Feel free to use this bot and tag me on [LinkedIn](https://www.linkedin.com/in/a
 ## Contributing
 We welcome contributions! Please read our [Contributing Guidelines](CONTRIBUTING.md) for more details.
 
-## License
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgements
 Special thanks to the contributors and the open-source community.
 
