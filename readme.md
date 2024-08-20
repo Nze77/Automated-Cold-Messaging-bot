@@ -9,7 +9,7 @@ Cold messaging can yield better results when reaching a larger audience. This bo
 
 In this example, the bot was utilized by a local graphic designer targeting cafes in the Borivali West area. Even within this small target group, the bot proved to be highly effective.
 
-Feel free to use this bot and tag me on [LinkedIn](https://www.linkedin.com) if you find it helpful.
+Feel free to use this bot and tag me on [LinkedIn](https://www.linkedin.com/in/aryan-pawaskar-815772193?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app) if you find it helpful.
 
 ## Features
 - **Target Specific Niches and Areas**: Scrapes names and phone numbers based on your specified niche and geographic location.
